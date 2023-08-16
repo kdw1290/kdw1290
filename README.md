@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...css
 - 🌱 I’m currently learning ...css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...vwtjkr13@naver.com
 
 <!---
 kdw1290/kdw1290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
