@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kdw1290
-- 👀 I’m interested in ...css
-- 🌱 I’m currently learning ...css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...vwtjkr13@naver.com
+- 👋 안녕하세요, 타입입니다1
+- 👀 배우고있는거-- ...css
+- 📫 연락 ...vwtjkr13@naver.com
 
 <!---
 kdw1290/kdw1290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
